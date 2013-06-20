@@ -1,0 +1,351 @@
+Return-path: <Citibank.Brazil@citi.com>
+Envelope-to: angela.carvalho@conhecerconsultoria.com
+Delivery-date: Mon, 20 Dec 2010 11:46:30 -0200
+Received: from mail162.messagelabs.com ([85.158.136.227])
+	by ariel.serverbr14.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.69)
+	(envelope-from <Citibank.Brazil@citi.com>)
+	id 1PUg4j-0003hV-LX
+	for angela.carvalho@conhecerconsultoria.com; Mon, 20 Dec 2010 11:46:30 -0200
+X-VirusChecked: Checked
+X-Env-Sender: Citibank.Brazil@citi.com
+X-Msg-Ref: server-12.tower-162.messagelabs.com!1292852811!11671803!1
+X-StarScan-Version: 6.2.9; banners=-,-,-
+X-Originating-IP: [199.67.141.124]
+Received: (qmail 6104 invoked from network); 20 Dec 2010 13:46:52 -0000
+Received: from mail.citigroup.com (HELO mail.citigroup.com) (199.67.141.124)
+  by server-12.tower-162.messagelabs.com with AES256-SHA encrypted SMTP; 20 Dec 2010 13:46:52 -0000
+Received: from imbhub-sw05.nam.nsroot.net ([165.203.247.197])
+	by smtpinbound.citigroup.com (Switch-3.4.1/Switch-3.4.1) with ESMTP id oBKDkpUl030411;
+	Mon, 20 Dec 2010 13:46:51 GMT
+Received: from imbhub-sw15.nam.nsroot.net (imbhub-sw15.nam.nsroot.net [153.40.146.125])
+	by imbhub-sw05.nam.nsroot.net (Switch-3.4.1/Switch-3.4.1) with ESMTP id oBKDkowN014178;
+	Mon, 20 Dec 2010 13:46:50 GMT
+Received: from cobjfpapp01.lac.nsroot.net (cobjfpapp01.lac.nsroot.net [10.213.112.45])
+	by imbhub-sw15.nam.nsroot.net (Switch-3.4.1/Switch-3.4.1) with ESMTP id oBKDkmNP022142;
+	Mon, 20 Dec 2010 13:46:49 GMT
+Message-ID: <1629118746.1292852809630.JavaMail.wasbin@mail.citicorp.com>
+Date: Mon, 20 Dec 2010 11:46:49 -0200 (BRST)
+From: "Citibank.Brazil@citi.com" <Citibank.Brazil@citi.com>
+To: "rjunior@b2b-future.com" <rjunior@b2b-future.com>
+Subject: =?ISO-8859-1?Q?Citibank_Online_Comprovante_de_Transa=E7=E3o?=
+Cc:   "angela.carvalho@conhecerconsultoria.com" <angela.carvalho@conhecerconsultoria.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_51277_19923248.1292852809620"
+X-UM-Flags: \SEEN
+
+------=_Part_51277_19923248.1292852809620
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+ 
+------=_Part_51277_19923248.1292852809620
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+=09<head>
+=09=09<title>Citibank</title>
+=09=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso=
+-8859-1">
+=09=09<style type=3D"text/css">
+=09=09=09TD=09=09{ font-family: Verdana, Arial, Helvetica, sans-serif; font=
+-size: 12px; color: #000000;}
+=09=09=09<!--
+=09=09=09body {
+=09=09=09margin-left: 0px;
+=09=09=09margin-top: 0px;
+=09=09=09margin-right: 0px;
+=09=09=09margin-bottom: 0px;
+=09=09=09}
+=09=09=09-->
+=09=09=09.apptxtlg  {font-family: Verdana, Arial, Helvetica, sans-serif; fo=
+nt-size:12px; color:#000000; line-height:17px; }
+=09=09=09.apptxtlgbold  {font-family: Verdana, Arial, Helvetica, sans-serif=
+; font-size:12px; color:#000000; line-height:17px; font-weight: bold; }
+=09=09=09.thindiv      { background-color: #CCCCCC; height: 1px; }
+=09=09=09.hdTop2   { font-family: Verdana, Arial, Helvetica, sans-serif; fo=
+nt-size: 15px; font-weight: bold; color: #003399; }
+=09=09=09.confirmacion { font-family: Verdana, Arial, Helvetica, sans-serif=
+; font-size:13px; color:#003399; line-height:17px; font-weight: bold; }
+=09=09=09.txtCinza11 { color: #545454; font-size: 11px; font-weight: normal=
+; font-family: Verdana, Arial, Helvetica, sans-serif; text-align:left; vert=
+ical-align:middle; padding-bottom:3px; padding-top:2px; }
+=09=09=09.txtCinzaEsc11 { color: #211F5F; font-size: 11px; font-weight: bol=
+d; font-family: Verdana, Arial, Helvetica, sans-serif; text-align:left; ver=
+tical-align:middle; padding-bottom:3px; padding-top:2px; }
+=09=09=09#tdborderpontilhada{ border-bottom:2px dotted #e0e0e0; }
+=09=09=09.tabela_tipo2 td {font-family: Verdana; font-size:11px; color:#545=
+454; font-weight:normal; text-align:left; vertical-align:middle; padding-bo=
+ttom:3px; padding-top:3px; border:0px; }
+=09=09=09.tabela_tipo2 th {font-family: Verdana; font-size:11px; color:#211=
+f5f; font-weight:normal; text-align:left; vertical-align:middle; padding-bo=
+ttom:3px; padding-top:3px; }
+=09=09=09th.ha_right {text-align:right;}
+=09=09=09td.ha_right {text-align:right;}
+=09=09=09td.ha_bold {font-weight:bold; color: #211F5F; }
+=09=09=09td.ha_bold_right {text-align:right; font-weight:bold; color: #211F=
+5F;}
+=09=09=09th.ha_center {text-align:center;}
+=09=09=09td.ha_center {text-align:center;}
+=09=09=09.bg_cinza{ background:#f6f6f6;}
+=09=09=09.bg_cinzaEsc{ background:#eeeeee;}
+=09=09=09.subTitle11 {color: #3399CC; font-size: 11px; font-weight: bold; f=
+ont-family: Verdana, Arial, Helvetica, sans-serif; margin:0 0 12px 0; paddi=
+ng-bottom:10px; text-align:left; }
+=09=09</style>
+=09</head>
+=09<body>
+=09<table width=3D"700px">
+=09=09<tr><td>=20
+=09=09<table><tr><td>
+=09=09    <img src=3Dhttps://www.latinamerica.citibank.com:443/brasil_repl/=
+JPS/portal/images/BRGCB/citibank_logo.gif   />
+=09=09</td></tr></table>
+
+=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"3" cellspacing=3D"0=
+">
+=09=09=09
+=09=09=09<tr><td colspan=3D"4">&nbsp;</td></tr>
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinzaEsc11" colspan=3D"100%">Confira o recibo d=
+a opera&ccedil;&atilde;o enviado por GEORGE.</td>
+=09=09=09</tr>
+=09=09=09<tr><td style=3D"border-bottom:2px dotted #e0e0e0;" colspan=3D"100=
+%">&nbsp;</td></tr>
+=09=09=09<tr>
+=09=09=09<td>&nbsp;</td>
+=09=09=09</tr>
+=09=09=09<tr><td colspan=3D"100%" class=3D"subTitle11">Opera&ccedil;&atilde=
+;o efetuada com sucesso.</td></tr>
+=09=09=09
+=09=09=09<tr><td colspan=3D"100%" class=3D"subTitle11">
+
+=09=09=09=09=09=09=09Comprovante de Transfer&ecirc;ncia - DOC
+=09=09=09=09=09=09
+=09=09=09
+=09=09=09
+
+=09=09=09=09=09=09
+=09=09=09</td></tr>
+=09=09
+=09=09=09<tr><td id=3D"tdborderpontilhada" colspan=3D"100%">&nbsp;</td></tr=
+>
+=09=09=09<tr><td>&nbsp;</td></tr>
+
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Conta Origem:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=09Conta Corrente   5XXXX203=20
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Tipo de Transfer&#234;ncia:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=09Tipo C
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Banco:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=09104- CX ECONOMICA FEDERAL                   =20
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Ag&#234;ncia:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=09200- ANCHIETA                          =20
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Conta Destino:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=09030003680
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Tipo de Conta: &nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=09Conta Corrente=20
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Nome do Favorecido:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=09GAS CENTER RICARDO LTDA
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09CNPJ: &nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=0909.496.322/0001-48
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Valor da Transfer&#234;ncia (R$):&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=091.000,00
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Data da Transfer&#234;ncia:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=0920/12/2010
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%" nowrap=3D"nowrap">
+=09=09=09=09=09=09Finalidade:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11" nowrap=3D"nowrap">
+=09=09=09=09=09=09PAGAMENTO A FORNECEDORES               =20
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09
+=09=09=09<tr>
+=09=09=09=09<td id=3D"tdborderpontilhada" colspan=3D"100%">&nbsp;</td>
+=09=09=09</tr>=09=09=09
+=09=09=09<tr><td>&nbsp;</td></tr>
+=09=09=09
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%">
+=09=09=09=09=09=09E-mail:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11">
+=09=09=09=09=09=09rjunior@b2b-future.com
+=09=09=09=09</td>
+=09=09=09</tr>
+
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" width=3D"30%">
+=09=09=09=09=09=09Mensagem:&nbsp;
+=09=09=09=09</td>
+=09=09=09=09<td class=3D"txtCinzaEsc11">
+=09=09=09=09=09=09Junior, segue comprovante de DOC referente aos services d=
+e coloca=E7=E3o do kit GAS e manuta=E7ao refente ao HONDA NEW CIVIC placa M=
+RM-1100
+Favor imprimir e enviar o comprovante para empresa do kit GAS
+=09=09=09=09</td>
+=09=09=09</tr>
+
+=09=09=09<tr>
+=09=09=09=09<td id=3D"tdborderpontilhada" colspan=3D"100%">&nbsp;</td>
+=09=09=09</tr>=09=09=09
+=09=09=09<tr><td>&nbsp;</td></tr>
+
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinzaEsc11" colspan=3D"100%">
+=09=09=09=09=09Opera&ccedil;&atilde;o efetuada em 20/12/2010 11:46=20
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09
+=09=09=09<tr>
+=09=09=09=09<td id=3D"tdborderpontilhada" colspan=3D"100%">&nbsp;</td>
+=09=09=09</tr>
+=09=09=09<tr><td>&nbsp;</td></tr>
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" colspan=3D"100%">Lembramos que, como p=
+arte de nossa pol&iacute;tica de seguran&ccedil;a, n&atilde;o enviamos link=
+s ou solicitamos dados cadastrais atrav&eacute;s de nossos e-mails.</td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" colspan=3D"100%">N&atilde;o divulgue s=
+uas senhas a terceiros e troque-as periodicamente.</td>
+=09=09=09</tr>
+
+=09=09=09<tr><td>&nbsp;</td></tr>
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11">Um abra&ccedil;o,</td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11">Sua equipe Citibank.</td>
+=09=09=09</tr>
+=09=09=09<tr><td>&nbsp;</td></tr>
+=09=09=09<tr>
+=09=09=09=09<td class=3D"subTitle11">Aten&ccedil;&atilde;o:</td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td class=3D"txtCinza11" colspan=3D"100%">N&atilde;o responda e=
+ste e-mail. Por favor, utilize o Fale Conosco do nosso site citibank.com.br=
+</td>
+=09=09=09</tr>
+<!-- ouvitoria -->
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+Para qualquer informa&ccedil;&otilde;es adicional ligue:
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+Solicita&ccedil;&otilde;es, sugest&otilde;es, reclama&ccedil;&otilde;es e c=
+ancelamentos
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+SP e RJ (capitais) 4004 2484. Outras localidades 0800 701 2484.
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+Todos os dias, 24h
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+&nbsp;
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+SAC Citi - Servi&ccedil;o de Apoio ao Cliente
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+Reclama&ccedil;&otilde;es, Cancelamentos e Informa&ccedil;&otilde;es
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+0800 979 2484 (deficientes auditivos - 0800 724 2484)
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+Todos os dias, 24h
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+&nbsp;
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+Se n&atilde;o ficar satisfeito com a solu&ccedil;&atilde;o apresentada, de =
+posse do protocolo, contate a Ouvidoria
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+0800 979 2484 (deficientes auditivos - 0800 724 2484).
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+Em dias &uacute;teis das 9 &agrave;s 18h
+</td></tr>
+<tr><td class=3D"txtCinza11" colspan=3D"100%">
+&nbsp;
+</td></tr>
+=09=09
+=09=09</table>
+=09=09
+=09=09</td>
+=09=09</tr>
+=09=09</table>
+=09</body>
+</html>
+
+------=_Part_51277_19923248.1292852809620--
+

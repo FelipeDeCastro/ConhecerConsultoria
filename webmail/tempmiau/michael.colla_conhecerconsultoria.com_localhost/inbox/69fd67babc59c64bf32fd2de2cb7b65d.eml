@@ -1,0 +1,62 @@
+Return-path: <michaelcolla7@gmail.com>
+Envelope-to: michael.colla@conhecerconsultoria.com
+Delivery-date: Mon, 24 Nov 2008 16:50:14 -0200
+Received: from an-out-0708.google.com ([209.85.132.251])
+	by ariel.serverbr14.com with esmtp (Exim 4.69)
+	(envelope-from <michaelcolla7@gmail.com>)
+	id 1L4gVe-0004yl-64
+	for michael.colla@conhecerconsultoria.com; Mon, 24 Nov 2008 16:49:47 -0200
+Received: by an-out-0708.google.com with SMTP id d11so825295and.16
+        for <michael.colla@conhecerconsultoria.com>; Mon, 24 Nov 2008 10:50:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:received:received:message-id:date:from:to
+         :subject:mime-version:content-type;
+        bh=gN2vg/+T6k/d6l8V8Lm2sWO3fgD844RwOmBaJe7tqkM=;
+        b=eNukM4QwXxpJP6iM4clLa/dDCAwCEHeVM0LAy4/fy8rQX5a4HWsUg9+CAvt1ijX9ir
+         l3v8K3oJfVvwYzn6aHtuzsuRR3KWpgEOLvw6QeM+pv3rbxsASOTT/jxqfJgW5BMXN5Mv
+         5RNIjuim9GLtZMuDxi+9/JkEltZyrUWSL2KUo=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=message-id:date:from:to:subject:mime-version:content-type;
+        b=jWP+Skq9es1u+7+aRAdfu+kL8mTVg9IlD6uCf0MBOkBZGI1P7qspfb2W9rfNEAjyho
+         9LdNC+n42vkYFE+OJ8pD8QI5TT/d78xhGDTOOqboTZVpcfFPwFV7icBL8bCzoOHA1zxp
+         yD9qUQ2JqfackeMS1otQJj94P04l9UnFRurYg=
+Received: by 10.142.251.9 with SMTP id y9mr1775049wfh.181.1227552611788;
+        Mon, 24 Nov 2008 10:50:11 -0800 (PST)
+Received: by 10.142.48.15 with HTTP; Mon, 24 Nov 2008 10:50:11 -0800 (PST)
+Message-ID: <fab1277a0811241050w4c71bc9dr2103764962e0e41e@mail.gmail.com>
+Date: Mon, 24 Nov 2008 16:50:11 -0200
+From: "Michael Colla" <michaelcolla7@gmail.com>
+To: michael.colla@conhecerconsultoria.com
+Subject: Mensagem teste 2
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_144302_27210054.1227552611783"
+X-SeverBR-MailScanner-Information: Please contact the ISP for more information
+X-SeverBR-MailScanner-ID: 1L4gVe-0004yl-64
+X-SeverBR-MailScanner: Found to be clean
+X-SeverBR-MailScanner-SpamCheck: não spam, ORDB-RBL, SORBS-SPAM,
+	SpamAssassin (not cached, escore=-1.159, requerido 5, BAYES_00 -2.60,
+	EMPTY_MESSAGE 1.44, HTML_MESSAGE 0.00)
+X-SeverBR-MailScanner-From: michaelcolla7@gmail.com
+X-Spam-Status: No
+X-UM-Flags: \SEEN
+
+------=_Part_144302_27210054.1227552611783
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Mensagem teste sem anexos!
+
+Michael Colla
+
+------=_Part_144302_27210054.1227552611783
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Mensagem teste sem anexos!<br><br>Michael Colla<br>
+
+------=_Part_144302_27210054.1227552611783--

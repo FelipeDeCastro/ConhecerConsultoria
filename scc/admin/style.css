@@ -1,0 +1,30 @@
+/*-- TXT --*/
+.txt-cinza01 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #B4B4B4;}
+.txt-testeira {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14px;color: #666666;font-weight: bold;}
+.txt-cinza02 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #666666;}
+.txt-cinza03 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12px;color: #666666;}
+/*-- TXT --*/
+
+/*-- LINKS --*/
+.link-cinza01:link {	font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;text-decoration:none;color: #666666;}
+.link-cinza01:active {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;text-decoration:none;color: #666666;}
+.link-cinza01:visited {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;text-decoration:none;color: #666666;}
+.link-cinza01:hover {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;text-decoration:underline;color: #666666;}
+
+.link-cinza02:link {	font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;text-decoration:none;color: #666666;font-weight: bold;}
+.link-cinza02:active {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;text-decoration:none;color: #666666;font-weight: bold;}
+.link-cinza02:visited {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;text-decoration:none;color: #666666;font-weight: bold;}
+.link-cinza02:hover {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;text-decoration:underline;color: #666666;font-weight: bold;}
+/*-- LINKS --*/
+
+/*-- TABELAS --*/
+.td-cinza01 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #CCCCCC;background-color: #666666;font-weight: bold;height: 20px;}
+.td-cinza02 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #7F7F7F;background-color: #D9D9D9;}
+.td-cinza03 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #7F7F7F;background-color: #E5E5E5;}
+.td-cinza04 {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #7F7F7F;background-color: #FFFFFF;}
+/*-- TABELAS --*/
+
+/*-- FORM --*/
+.input-A  {background-color: #EFEFEF;font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #000000;border: solid 1px #666666;}
+.button-A {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;border: solid 1px #CCCCCC;color: #666666;}
+/*-- FORM --*/

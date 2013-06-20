@@ -1,0 +1,59 @@
+Return-path: <michaelcolla7@gmail.com>
+Envelope-to: ivan.costa@conhecerconsultoria.com
+Delivery-date: Mon, 20 Oct 2008 13:46:31 -0200
+Received: from yw-out-1718.google.com ([74.125.46.158])
+	by saturno.serverbr7.com with esmtp (Exim 4.69)
+	(envelope-from <michaelcolla7@gmail.com>)
+	id 1Krwy6-00015O-8J
+	for ivan.costa@conhecerconsultoria.com; Mon, 20 Oct 2008 13:46:31 -0200
+Received: by yw-out-1718.google.com with SMTP id 5so314447ywm.16
+        for <ivan.costa@conhecerconsultoria.com>; Mon, 20 Oct 2008 08:47:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:received:received:message-id:date:from:to
+         :subject:mime-version:content-type;
+        bh=tWYG7+7TcyiJaqaaPA0vigXZWcUCXz1ncoeecTvDFq4=;
+        b=B25+sz8aW+WEw24hGn5lb+6y/GUkvZd7QLyvhRayjzxzWG3jXmUgpVX1hFzhqk3A2Q
+         tZgSd+uvvIpkkkJZtFQ0yBHmbM7gYMX8qsSIVOjj9DOw5v5f9vc+UfiXJiRpLx3nvzCh
+         kqD3rF8qwl02hIw/hy/zS0EOVaEPrnhD5OSnc=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=message-id:date:from:to:subject:mime-version:content-type;
+        b=R8n9yDtq5pVOJ/fNSCUb29nh65V2e9hNtK6Y4bPtvlcCT6KEG/KIq4zTaAHSU9OEpq
+         vjCkPrIlHnVDrxS/wcI5afXSDUFhZ0c0ZOfP2J8/jZLt+3m2wvmg45mFZJ9tXnGbP+fg
+         1H7nuG+5C6e6lOon8AChinUQZfk2cU5S3HE6I=
+Received: by 10.142.215.5 with SMTP id n5mr3143428wfg.131.1224517620032;
+        Mon, 20 Oct 2008 08:47:00 -0700 (PDT)
+Received: by 10.142.131.4 with HTTP; Mon, 20 Oct 2008 08:46:59 -0700 (PDT)
+Message-ID: <fab1277a0810200846o163ea2b9pe1413ee8ec63c285@mail.gmail.com>
+Date: Mon, 20 Oct 2008 13:46:59 -0200
+From: "Michael Colla" <michaelcolla7@gmail.com>
+To: ivan.costa@conhecerconsultoria.com
+Subject: Mensagem teste
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_99207_25075082.1224517620026"
+X-UM-Flags: \SEEN \ANSWERED
+
+------=_Part_99207_25075082.1224517620026
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+Qm9hIHRhcmRlIEl2YW4sCgpFc3RhIMOpIHVtYSBtZW5zYWdlbSBkZSB0ZXN0ZSBwYXJhIHZlcmlm
+aWNhciBvIGVudmlvL3JlY2ViaW1lbnRvIGRlIHN1YSBjYWl4YQpwb3N0YSBkYSBDb25oZWNlci4K
+ClBvciBmYXZvciwgYXNzaW0gcXVlIGxlciBlc3RhIG1lbnNhZ2VtIGEgcmVzcG9uZGEgY29uZmly
+bWFuZG8gbyByZWNlYmltZW50byEKCkRlc2RlIGrDoSBtdWl0byBvYnJpZ2FkbyEKCk1pY2hhZWwg
+Q29sbGEKV2VibWFzdGVyCg==
+------=_Part_99207_25075082.1224517620026
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+PGRpdiBkaXI9Imx0ciI+Qm9hIHRhcmRlIEl2YW4sPGJyPjxicj5Fc3RhIMOpIHVtYSBtZW5zYWdl
+bSBkZSB0ZXN0ZSBwYXJhIHZlcmlmaWNhciBvIGVudmlvL3JlY2ViaW1lbnRvIGRlIHN1YSBjYWl4
+YSBwb3N0YSBkYSBDb25oZWNlci48YnI+PGJyPlBvciBmYXZvciwgYXNzaW0gcXVlIGxlciBlc3Rh
+IG1lbnNhZ2VtIGEgcmVzcG9uZGEgY29uZmlybWFuZG8gbyByZWNlYmltZW50byE8YnI+PGJyPgpE
+ZXNkZSBqw6EgbXVpdG8gb2JyaWdhZG8hPGJyPjxicj5NaWNoYWVsIENvbGxhPGJyPldlYm1hc3Rl
+cjxicj48L2Rpdj4K
+------=_Part_99207_25075082.1224517620026--

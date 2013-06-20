@@ -1,0 +1,294 @@
+Return-path: <Citibank.Brazil@citi.com>
+Envelope-to: angela.carvalho@conhecerconsultoria.com
+Delivery-date: Mon, 20 Dec 2010 11:16:29 -0200
+Received: from mail109.messagelabs.com ([216.82.250.67])
+	by ariel.serverbr14.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.69)
+	(envelope-from <Citibank.Brazil@citi.com>)
+	id 1PUfbg-0004mN-VZ
+	for angela.carvalho@conhecerconsultoria.com; Mon, 20 Dec 2010 11:16:29 -0200
+X-VirusChecked: Checked
+X-Env-Sender: Citibank.Brazil@citi.com
+X-Msg-Ref: server-10.tower-109.messagelabs.com!1292851010!1868749!1
+X-StarScan-Version: 6.2.9; banners=-,-,-
+X-Originating-IP: [199.67.141.124]
+Received: (qmail 31067 invoked from network); 20 Dec 2010 13:16:51 -0000
+Received: from mail.citigroup.com (HELO mail.citigroup.com) (199.67.141.124)
+  by server-10.tower-109.messagelabs.com with AES256-SHA encrypted SMTP; 20 Dec 2010 13:16:51 -0000
+Received: from imbhub-sw04.nam.nsroot.net ([165.203.247.187])
+	by smtpinbound.citigroup.com (Switch-3.4.1/Switch-3.4.1) with ESMTP id oBKDGo2Q030624
+	for <angela.carvalho@conhecerconsultoria.com>; Mon, 20 Dec 2010 13:16:50 GMT
+Received: from imbhub-sw15.nam.nsroot.net (imbhub-sw15.nam.nsroot.net [153.40.146.125])
+	by imbhub-sw04.nam.nsroot.net (Switch-3.4.1/Switch-3.4.1) with ESMTP id oBKDGn5P021589
+	for <angela.carvalho@conhecerconsultoria.com>; Mon, 20 Dec 2010 13:16:49 GMT
+Received: from cobjfpapp01.lac.nsroot.net (cobjfpapp01.lac.nsroot.net [10.213.112.45])
+	by imbhub-sw15.nam.nsroot.net (Switch-3.4.1/Switch-3.4.1) with ESMTP id oBKDGmM6014859
+	for <angela.carvalho@conhecerconsultoria.com>; Mon, 20 Dec 2010 13:16:48 GMT
+Message-ID: <1284394126.1292851009486.JavaMail.wasbin@mail.citicorp.com>
+Date: Mon, 20 Dec 2010 11:16:49 -0200 (BRST)
+From: "Citibank.Brazil@citi.com" <Citibank.Brazil@citi.com>
+To:   "angela.carvalho@conhecerconsultoria.com" <angela.carvalho@conhecerconsultoria.com>
+Subject: =?ISO-8859-1?Q?Citibank_Online_Comprovante_de_Transa=E7=E3o?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_50568_120063784.1292851009475"
+X-UM-Flags: \SEEN
+
+------=_Part_50568_120063784.1292851009475
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+ 
+------=_Part_50568_120063784.1292851009475
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+	<head>
+		<title>Citibank - JFP Brasil</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<style type="text/css">
+			TD		{ font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+			<!--
+			body {
+			margin-left: 0px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			}
+			-->
+			.apptxtlg  {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#000000; line-height:17px; }
+			.apptxtlgbold  {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#000000; line-height:17px; font-weight: bold; }
+			.thindiv      { background-color: #CCCCCC; height: 1px; }
+			.hdTop2   { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; color: #003399; }
+			.confirmacion { font-family: Verdana, Arial, Helvetica, sans-serif; font-size:13px; color:#003399; line-height:17px; font-weight: bold; }
+
+			.txtCinza11 { color: #545454; font-size: 11px; font-weight: normal; font-family: Verdana, Arial, Helvetica, sans-serif; text-align:left; vertical-align:middle; padding-bottom:3px; padding-top:2px; }
+			.txtCinzaEsc11 { color: #211F5F; font-size: 11px; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif; text-align:left; vertical-align:middle; padding-bottom:3px; padding-top:2px; }
+			#tdborderpontilhada{ border-bottom:2px dotted #e0e0e0; }
+			.tabela_tipo2 td {font-family: Verdana; font-size:11px; color:#545454; font-weight:normal; text-align:left; vertical-align:middle; padding-bottom:3px; padding-top:3px; border:0px; }
+			.tabela_tipo2 th {font-family: Verdana; font-size:11px; color:#211f5f; font-weight:normal; text-align:left; vertical-align:middle; padding-bottom:3px; padding-top:3px; }
+			th.ha_right {text-align:right;}
+			td.ha_right {text-align:right;}
+			td.ha_bold {font-weight:bold; color: #211F5F; }
+			td.ha_bold_right {text-align:right; font-weight:bold; color: #211F5F;}
+			th.ha_center {text-align:center;}
+			td.ha_center {text-align:center;}
+			.bg_cinza{ background:#f6f6f6;}
+			.bg_cinzaEsc{ background:#eeeeee;}
+			.subTitle11 {color: #3399CC; font-size: 11px; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif; margin:0 0 12px 0; padding-bottom:10px; text-align:left; }
+
+		</style>
+	</head>
+	<body>
+		<table width="700px">
+		<tr><td> 
+		<table><tr><td>
+    		<img src=https://www.latinamerica.citibank.com:443/brasil_repl/JPS/portal/images/BRGCB/citibank_logo.gif   />
+		</td></tr></table>
+
+		<table width="100%" border="0" cellpadding="3" cellspacing="0">
+			
+			<tr><td colspan="2">&nbsp;</td></tr>
+			<tr>
+				<td class="txtCinzaEsc11" colspan="2">Confira o recibo da opera&ccedil;&atilde;o enviado por GEORGE.</td>
+			</tr>
+			<tr><td style="border-bottom:2px dotted #e0e0e0;" colspan="100%">&nbsp;</td></tr>
+			<tr>
+			<td>&nbsp;</td>
+			</tr>
+			<tr><td colspan="100%" class="subTitle11">Opera&ccedil;&atilde;o efetuada com sucesso.</td></tr>
+			
+			<tr><td colspan="100%" class="subTitle11">
+			
+							Comprovante de Pagamento de Concession&aacute;ria 
+			
+						</td>
+			</tr>
+			
+			
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+						<tr>
+				<td class="txtCinza11" width="18%" nowrap="nowrap">
+						Conta Origem:&nbsp;
+				</td>
+				<td class="txtCinzaEsc11" width="82%" nowrap="nowrap">
+						Conta Corrente   5XXXX203 
+				</td>
+			</tr>
+						<tr>
+				<td class="txtCinza11" width="18%" nowrap="nowrap">
+						Concession&#225;ria:&nbsp;
+				</td>
+				<td class="txtCinzaEsc11" width="82%" nowrap="nowrap">
+						LIGHT                         
+				</td>
+			</tr>
+						<tr>
+				<td class="txtCinza11" width="18%" nowrap="nowrap">
+						C&#243;digo de Barras:&nbsp;
+				</td>
+				<td class="txtCinzaEsc11" width="82%" nowrap="nowrap">
+						83670000003-4 37030053106-5 47148514500-0 10048022162-9
+				</td>
+			</tr>
+						<tr>
+				<td class="txtCinza11" width="18%" nowrap="nowrap">
+						Valor do Pagamento (R$):&nbsp;
+				</td>
+				<td class="txtCinzaEsc11" width="82%" nowrap="nowrap">
+						337,03
+				</td>
+			</tr>
+						<tr>
+				<td class="txtCinza11" width="18%" nowrap="nowrap">
+						Data do Pagamento:&nbsp;
+				</td>
+				<td class="txtCinzaEsc11" width="82%" nowrap="nowrap">
+						20/12/2010
+				</td>
+			</tr>
+						<tr>
+				<td class="txtCinza11" width="18%" nowrap="nowrap">
+						Descri&#231;&#227;o:&nbsp;
+				</td>
+				<td class="txtCinzaEsc11" width="82%" nowrap="nowrap">
+						pagt luz casa
+				</td>
+			</tr>
+			<tr><td id="tdborderpontilhada" colspan="100%">&nbsp;</td></tr>
+
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+							<tr>
+					<td class="txtCinza11">
+							E-mail:&nbsp;
+					</td>
+					<td class="txtCinzaEsc11">
+							angela.carvalho@conhecerconsultoria.com
+					</td>
+				</tr>
+												<tr>
+				<td class="txtCinza11">
+						Mensagem:&nbsp;
+				</td>
+				<td class="txtCinzaEsc11">
+						segue comprovante de pagamento da conta de luz com vencimento em 17/12/2010
+				</td>
+			</tr>
+						<tr>
+				<td id="tdborderpontilhada" colspan="100%">&nbsp;</td>
+			</tr>			
+			<tr><td colspan="2">&nbsp;</td></tr>
+			
+			<tr>
+				<td class="txtCinzaEsc11" colspan="2">
+					Opera&ccedil;&atilde;o efetuada em 20/12/2010 11:16 
+				</td>
+			</tr>
+			<tr>
+				<td id="tdborderpontilhada" colspan="100%">&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+		</table>
+		<table width="100%">
+			<tr>
+				<td class="subTitle11"><span class="subTitle11">Importante</span></td>
+			</tr>
+			<tr>
+				<td class="txtCinza11">Caso o saldo dispon&iacute;vel em sua conta corrente seja insuficiente na data programada para a efetiva&ccedil;&atilde;o da transa&ccedil;&atilde;o, a mesma n&atilde;o ser&aacute; efetuada. Caso queira certificar-se da efetiva&ccedil;&atilde;o, consulte a op&ccedil;&atilde;o 'Consultar pagamentos efetuados' no dia seguinte &agrave; data agendada para o pagamento</td>
+			</tr>
+
+		</table>
+
+
+		<table width="100%" border="0" cellpadding="3" cellspacing="0">
+	
+			<tr>
+				<td id="tdborderpontilhada" colspan="100%">&nbsp;</td>
+			</tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr>
+				<td class="txtCinza11">Lembramos que, como parte de nossa pol&iacute;tica de seguran&ccedil;a, n&atilde;o enviamos links ou solicitamos dados cadastrais atrav&eacute;s de nossos e-mails.</td>
+			</tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr>
+				<td class="txtCinza11">N&atilde;o divulgue suas senhas a terceiros e troque-as periodicamente.</td>
+			</tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr>
+				<td class="txtCinza11">Um abra&ccedil;o,</td>
+			</tr>
+			<tr>
+				<td class="txtCinza11">Sua equipe Citibank.</td>
+			</tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr>
+				<td class="subTitle11">Aten&ccedil;&atilde;o:</td>
+			</tr>
+			<tr>
+				<td class="txtCinza11">N&atilde;o responda este e-mail. Por favor, utilize o Fale Conosco do nosso site citibank.com.br</td>
+			</tr>
+<!-- ouvitoria -->
+<tr><td class="txtCinza11">
+Para qualquer informa&ccedil;&otilde;es adicional ligue:
+</td></tr>
+<tr><td class="txtCinza11" 
+Solicita&ccedil;&otilde;es, sugest&otilde;es, reclama&ccedil;&otilde;es e cancelamentos
+</td></tr>
+<tr><td class="txtCinza11">
+SP e RJ (capitais) 4004 2484. Outras localidades 0800 701 2484.
+</td></tr>
+<tr><td class="txtCinza11">
+Todos os dias, 24h
+</td></tr>
+<tr><td class="txtCinza11">
+&nbsp;
+</td></tr>
+<tr><td class="txtCinza11">
+SAC Citi - Servi&ccedil;o de Apoio ao Cliente
+</td></tr>
+<tr><td class="txtCinza11">
+Reclama&ccedil;&otilde;es, Cancelamentos e Informa&ccedil;&otilde;es
+</td></tr>
+<tr><td class="txtCinza11">
+0800 979 2484 (deficientes auditivos - 0800 724 2484)
+</td></tr>
+<tr><td class="txtCinza11">
+Todos os dias, 24h
+</td></tr>
+<tr><td class="txtCinza11">
+&nbsp;
+</td></tr>
+<tr><td class="txtCinza11">
+Se n&atilde;o ficar satisfeito com a solu&ccedil;&atilde;o apresentada, de posse do protocolo, contate a Ouvidoria
+</td></tr>
+<tr><td class="txtCinza11">
+0800 979 2484 (deficientes auditivos - 0800 724 2484).
+</td></tr>
+<tr><td class="txtCinza11">
+Em dias &uacute;teis das 9 &agrave;s 18h
+</td></tr>
+<tr><td class="txtCinza11">
+&nbsp;
+</td></tr>
+			
+			
+		</table>
+		</td>
+		</tr>
+		</table>
+		
+	</body>
+</html>
+
+------=_Part_50568_120063784.1292851009475--
+

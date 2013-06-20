@@ -1,0 +1,60 @@
+Return-path: <>
+Envelope-to: ivan.costa@conhecerconsultoria.com
+Delivery-date: Mon, 20 Oct 2008 16:33:51 -0200
+Received: from mailnull by saturno.serverbr7.com with local (Exim 4.69)
+	id 1Krza2-0002jM-Ak
+	for ivan.costa@conhecerconsultoria.com; Mon, 20 Oct 2008 16:33:51 -0200
+X-Failed-Recipients: luciana.schneide@oi.net.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@saturno.serverbr7.com>
+To: ivan.costa@conhecerconsultoria.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1Krza2-0002jM-Ak@saturno.serverbr7.com>
+Date: Mon, 20 Oct 2008 16:33:51 -0200
+X-UM-Flags: \SEEN
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  luciana.schneide@oi.net.br
+    SMTP error from remote mail server after RCPT TO:<luciana.schneide@oi.net.br>:
+    host smtp.oi.net.br [200.222.3.133]: 550 #5.1.0 Address rejected luciana.schneide@oi.net.br
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <ivan.costa@conhecerconsultoria.com>
+Received: from localhost ([127.0.0.1] helo=201.19.22.221)
+	by saturno.serverbr7.com with esmtpa (Exim 4.69)
+	(envelope-from <ivan.costa@conhecerconsultoria.com>)
+	id 1Krza0-0002j0-C7
+	for luciana.schneide@oi.net.br; Mon, 20 Oct 2008 16:33:49 -0200
+Received: from phpmailer ([201.19.22.221]) 
+	by 201.19.22.221 with HTTP (UebiMiau);
+	Mon, 20 Oct 2008 16:34:12 -0200
+Date: Mon, 20 Oct 2008 16:34:12 -0200
+To: luciana.schneide@oi.net.br
+From: Ivan Costa <ivan.costa@conhecerconsultoria.com>
+Reply-to: Ivan Costa <ivan.costa@conhecerconsultoria.com>
+Subject: =?iso-8859-1?Q?Consulta_-_Substitui=E7=E3o_de_Conector_de_Emenda?=
+Message-ID: <ba9f1aa327a083c5b764852bb9cff043@201.19.22.221>
+X-Priority: 1
+X-Mailer: UebiMiau [PHPMailer version 1.70]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; 
+	charset="iso-8859-1"
+
+Boa tarde Luciana,<BR><BR>Conforme nosso contato telefônico na semana
+passada, formalizo através desse e-mail a consulta referente a substituição
+do Conector de Emenda FE / FE Bargôa pelo Conector do fabricante
+REDEX.<BR><BR>Agradeço ao esclarecimento prestado, ressaltando que o mesmo
+contribui para a melhoria continua do nosso trabalho.<BR><BR>--<BR>Ivan
+Costa<BR>Conhecer Consultoria<BR>(21) 2138-9811 /
+(21)7811.4223<BR>http://www.conhecerconsultoria.com<BR><BR><BR />
+<BR />
+________________________________________________<BR />
+Mensagem enviada usando UebiMiau 2.7.10. Powered by: mkinformatica.net<BR />
+
+

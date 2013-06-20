@@ -1,0 +1,42 @@
+[21-May-2013 23:28:12] PHP Fatal error:  Cannot redeclare retiraacentopasta() (previously declared in /home/conhecer/public_html/scc/admin/index.php:11) in /home/conhecer/public_html/scc/admin/funcoes.php on line 1240
+[21-May-2013 23:30:03] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:33:22] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:33:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:33:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:33:34] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:33:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:33:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:33:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:33:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:33:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:33:36] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:33:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:33:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:34:27] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/candidatura.php on line 28
+[21-May-2013 23:34:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/candidatura.php on line 32
+[21-May-2013 23:34:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/candidatura.php on line 75
+[21-May-2013 23:34:27] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/candidatura.php on line 91
+[21-May-2013 23:34:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/candidatura.php on line 92
+[21-May-2013 23:34:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/candidatura.php on line 120
+[21-May-2013 23:34:29] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/vagas.php on line 21
+[21-May-2013 23:34:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/vagas.php on line 25
+[21-May-2013 23:34:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/vagas.php on line 79
+[21-May-2013 23:34:32] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:34:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:34:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:36:10] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:36:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:36:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:36:12] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:36:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:36:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:36:15] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:36:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:36:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:36:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:36:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:36:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:38:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 26
+[21-May-2013 23:38:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30
+[21-May-2013 23:38:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 82
+[21-May-2013 23:55:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/conhecer/public_html/scc/admin/include/curriculo.php on line 30

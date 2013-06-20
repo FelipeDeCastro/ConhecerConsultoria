@@ -1,0 +1,73 @@
+{config_load file=$umLanguageFile section="Login"}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+  <head>
+    <title>
+      Webmail Conhecer - {#lgn_title#|escape:"html"}
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset={#default_char_set#}">
+	<link rel="stylesheet" href="themes/uebimiau/webmail.css" type="text/css">
+  </head>
+  <!--
+  Skinned by Arnaud BEAUVOIR - http://forum.beauvoir.net - contact@beauvoir.net
+  Thank you to let the copyright in place on the login page and in all sources of pages.
+  This skin is the work of an author, thank you to respect it and not to remove the
+  copyright, or worse, to put your name at the place.
+  -->
+  {$umJS}
+  <body>
+    <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+      <tr>
+        <td valign="middle" align="center">
+          <table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+            <tr>
+              <td background="themes/uebimiau/images/ligne-fond.gif">
+                <table id="Table" width="750" height="386" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td colspan="3">
+							<img src="themes/uebimiau/images/topo_01.jpg" width="750" height="104" alt=""></td>
+					</tr>
+					<tr>
+						<td colspan="3" width="750" height="36" background="themes/uebimiau/images/topo_02.jpg">
+							<div align="center" class="txt-branco"><b>.: {#lgn_welcome_msg#} :. </b></div></td>
+					</tr><form name="form1" action="process.php" method=post>
+					<tr>
+						<td width="441" height="183" background="themes/uebimiau/images/topo_03.jpg" valign="top">
+					<div style="padding-left:55px; padding-top:52px;">
+					{if $umServerType neq "ONE-FOR-EACH"}
+                       <input type="text" name="f_email" value="{$umEmail}" class="edits">                    {else}                                         
+                        <input type="text" name="f_user" value="{$umUser}" class="edits">&nbsp;<span class="txt-branco"><b>{$umServer}</b></span>
+				{/if}
+					<br><br style="line-height:29px;">
+					<input type="password" name="f_pass" class="edits">               
+                    {if $umAllowSelectLanguage}                  
+                        <b>{#lng_language#}</b>:  
+                        {$umLanguages} 
+                    {/if}
+					<!-- <br> -->
+                    {if $umAllowSelectTheme}
+					<!--<b><span class="txt-branco">Tema:</span></b>&nbsp; -->{$umThemes}
+                    {/if}
+                 &nbsp;<input type="submit" name="submit" value="{#lng_login_btn#}" class="botao"> 
+				  </div>
+				  </td>                 
+						<td>
+							<img src="themes/uebimiau/images/topo_04.jpg" width="254" height="183" alt=""></td>
+						<td>
+							<img src="themes/uebimiau/images/topo_05.jpg" width="55" height="183" alt=""></td>
+					</tr></form>
+					<tr>
+						<td colspan="3">
+							<img src="themes/uebimiau/images/topo_06.jpg" alt="" width="750" height="63" border="0" usemap="#Map"></td>
+					</tr>
+				</table>              </td>
+            </tr>
+            <tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+<map name="Map"><area shape="rect" coords="720,48,741,61" href="http://www.mkinformatica.net" target="_blank">
+</map></body>
+</html>

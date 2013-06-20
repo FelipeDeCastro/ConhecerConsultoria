@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wrap{ width:960px; margin:0 auto; position:relative; display:table;}
+body{ background:url(../img/bg-pattern.jpg) center top repeat;}
+body.home{ background:#fff;}
+
+/*TOPO*/
+#topo{ width:100%; height:114px; background:url(../img/bg-topo.png) top left repeat-x; z-index:100;}
+#topo #barra-lateral{ width:260px; height:527px; position:absolute; top:0; left:0; z-index:100; background:url(../img/barra-lateral.png) top left no-repeat;}
+#topo #barra-lateral h1{ margin:0; padding:0;}
+#topo #barra-lateral h1 a{ display:block; width:220px; height:332px; margin:0 auto; display:block;}
+#topo #barra-lateral h1 a span{ display:none;}
+#topo #barra-lateral a.seja-instrutor, #topo #barra-lateral a.entre-contato{ display:block; width:200px; height:61px; margin-left:10px; padding:17px 20px; letter-spacing:-0.06em; font-family:Helvetica, Arial, sans-serif; font-size:24px; text-decoration:none; color:#ff881c; line-height:28px;}
+#topo #barra-lateral a.seja-instrutor strong, #topo #barra-lateral a.entre-contato strong{ font-size:36px; font-weight:bold;}
+#topo #barra-lateral a.seja-instrutor:hover, #topo #barra-lateral a.entre-contato:hover{ color:#1645b7;}
+#topo #menu{ margin:0; padding-left:280px; padding-top:4px}
+#topo #menu li{ float:left; list-style-type:none; padding:0; margin:0;}
+#topo #menu li a{ font-family:Helvetica, Arial, sans-serif; font-size:14px; text-transform:uppercase; text-decoration:none; color:#1645b7; height:20px; line-height:20px; margin:0; padding: 72px 15px 14px 15px; display:block; border-bottom:8px solid #1645b7; background:url(../img/bg-menu-li.png) top right no-repeat;}
+#topo #menu li a.last{ background:none;}
+#topo #menu li a:hover, #topo #menu li.active a{ color:#ff881c; border-bottom-color:#ff881c;}
+#topo #menu h2 { font-family:Helvetica, Arial, sans-serif; font-size:36px; line-height:40px; letter-spacing:-0.06em; color:#2d3340; padding-right:40px; float:left; width:100%;}
+
+/*CONTEÚDO - GERAIS*/
+#conteudo .wrap{ width:660px; padding-left:300px; padding-bottom: 80px;}
+#conteudo h2.titulo-pagina{ font-family:Helvetica, Arial, sans-serif; font-size:30px; line-height:40px; letter-spacing:-0.06em; color:#2d3340; padding-right:40px; float:left; width:100%;}
+#conteudo p{ font-family:Helvetica, Arial, sans-serif; font-size:14px; line-height:19px; color:#2d3340; padding-right:40px; float:left; width:100%;}
+#conteudo p strong{ color:#f77718; font-weight:normal;}
+#conteudo a{ font-family:Helvetica, Arial, sans-serif; font-size:14px;  text-decoration:none; color:#1645b7;}
+#conteudo a.last{ background:none;}
+#conteudo a:hover, #topo #menu li.active a{ color:#ff881c; border-bottom-color:#ff881c;}
+
+/*CONTEÚDO - HOME*/
+#content{ background-color:#e2e5e6;}
+#content #slider{ position:relative;}
+#content #slider .slides_container { overflow:hidden; margin:0; padding:0; }
+#content #slider .slides_container div { display:block; }
+#content #slider .slides_container div img{ display:block; position:relative; top:50%; left:50%; margin-left:-849px; margin-top:-565px;}
+#content #slider .slides_container div p{ font-family:Helvetica, Arial, sans-serif; color:#333333; text-align:right; position:absolute; top:41px; right:50%; margin:0 -440px 0 0; }
+#content #slider .slides_container div p span{ font-size:32px; line-height:51px; background:#fff; float:right; padding:0 20px; letter-spacing:-0.06em; }
+#content #slider .slides_container div p strong{ font-size:38px; line-height:51px; background:#fff; float:right; padding:0 20px; letter-spacing:-0.06em; }
+#content #slider .next{ background:url(../img/destaques-nav.png) top left no-repeat; width:30px; height:52px; display:block; text-indent:99999px; overflow:hidden; position:absolute; top:40px; left:50%; margin-left:440px}
+#content #slider .next:hover{ background-position: top right;}
+#content #slider .prev{ background:url(../img/destaques-nav.png) bottom left no-repeat; width:30px; height:52px; display:block; text-indent:99999px; overflow:hidden; position:absolute; top:91px; left:50%; margin-left:440px}
+#content #slider .prev:hover{ background-position: bottom right;}
+
+/*CONTEÚDO - TREINAMENTOS*/
+.treinamentos #conteudo #sob_medida{ background:url(../img/bg-form.png) #fff left top repeat-x; border-top: 1px solid #fff; box-shadow:#ccc 1px 2px 2px; padding:20px; width:600px; float:left;}
+.treinamentos #conteudo #sob_medida h3{ font-family:Helvetica, Arial, sans-serif; font-weight:bold; color:#e86e16; font-size:24px; letter-spacing:-0.06em; width:100%; margin:0;}
+.treinamentos #conteudo #sob_medida p{ width:100%; padding:10px 0 0 0; margin:0;}
+.treinamentos #conteudo ul{ width:100%; float:left; margin:30px 0 0 0; padding:0;}
+.treinamentos #conteudo ul li{ float:left; list-style-type:none; padding-bottom:25px;}
+.treinamentos #conteudo ul li h3{ font-family:Helvetica, Arial, sans-serif; font-weight:bold; color:#333; font-size:24px; letter-spacing:-0.06em; width:605px; margin:0; background:url(../img/treinamentos-bullet.png) left 3px no-repeat; padding-left:35px;}
+.treinamentos #conteudo ul li p{ width:605px; padding:0 0 0 35px; margin:0;}
+
+/*CONTEÚDO - CLIENTES*/
+.clientes #conteudo ul{ float:left; margin:0; padding:0;}
+.clientes #conteudo ul li{ float:left; list-style-type:none; width:117px; height:118px; padding:0 15px 15px 0;}
+.clientes #conteudo ul li img{ display:block; float:left;}
+
+/*CONTEÚDO - CONTATO*/
+.contato #conteudo form#form-contato{ float:left; width:640px; background:url(../img/bg-form.png) #fff left top repeat-x; border-top: 1px solid #fff; box-shadow:#ccc 1px 2px 2px;}
+.contato #conteudo form#form-contato fieldset.infos{ width:240px; padding:0 0 0 20px; float:left;}
+.contato #conteudo form#form-contato fieldset.mensagem{ width:340px; padding:0 0 0 20px; float:left;}
+.contato #conteudo form#form-contato fieldset.enviar{ width:100%; float:left; padding:20px 0;}
+.contato #conteudo form#form-contato label{ float:left; width:100%; font-family:Helvetica, Arial, sans-serif; font-size:16px; color:#2d3340; font-weight:bold; padding:20px 0 5px 0;}
+.contato #conteudo form#form-contato input{ float:left; width:100%; height:40px; line-height:40px; text-indent:10px; border-bottom:1px solid #cdcdcd; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5; background:url(../img/bg-input.png) #eee top left repeat-x; border-top:none;}
+.contato #conteudo form#form-contato textarea{ float:left; width:320px; height:130px; line-height: 20px; padding-left:10px; border-bottom:1px solid #cdcdcd; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5; background:url(../img/bg-input.png) top left repeat-x; border-top:none;}
+.contato #conteudo form#form-contato input#enviar{ float:left; text-indent:0; margin:0 0 0 20px; width:auto; height:37px; padding:0 12px; line-height:37px; font-family:Helvetica, Arial, sans-serif; font-size:16px; border:none; color:#fff; font-weight:bold; background:url(../img/bg-submit.png) left bottom repeat-x;}
+.contato #conteudo form#form-contato input#enviar:hover{ cursor:pointer; background-position:left top;}
+.contato #conteudo #telefones{ float:left; width:100px; padding-right:20px}
+.contato #conteudo #emails{ float:left; width:240px; padding-right:20px}
+.contato #conteudo #endereco{ float:left; width:280px;}
+.contato #conteudo #telefones h3, #conteudo #emails h3, #conteudo #endereco h3{ float:left; width:100%; font-family:Helvetica, Arial, sans-serif; font-size:16px; color:#2d3340; font-weight:bold; padding:20px 0 5px 0; margin:0;}
+.contato #conteudo #telefones p, #conteudo #emails p, #conteudo #endereco p{ float:left; width:100%; font-family:Helvetica, Arial, sans-serif; font-size:12px; line-height:17px; color:#2d3340; font-weight:normal; margin:0; padding:0;}
+.contato #conteudo #endereco p span{ font-style:italic; color:#595959; font-size:11px; line-height:16px;}
+
+/*CONTEÚDO - SEJA UM INSTRUTOR*/
+.seja-instrutor #conteudo form#form-contato{ float:left; width:640px; background:url(../img/bg-form.png) #fff left top repeat-x; border-top: 1px solid #fff; box-shadow:#ccc 1px 2px 2px;}
+.seja-instrutor #conteudo form#form-contato h3{ margin:10px 0 0 0; float:left; width:100%; font-family:Helvetica, Arial, sans-serif; font-weight:normal;}
+.seja-instrutor #conteudo form#form-contato hr{ margin:10px 0 20px 0; float:left; width:100%;}
+.seja-instrutor #conteudo form#form-contato fieldset{ width:600px; padding:20px 20px 0 20px; float:left;}
+.seja-instrutor #conteudo form#form-contato label{ float:left; width:100px; font-family:Helvetica, Arial, sans-serif; font-size:16px; color:#2d3340; font-weight:bold; text-align:right; padding-right:10px; height:40px; line-height:40px; margin-bottom:15px;}
+.seja-instrutor #conteudo form#form-contato input{float:left; width:400px; height:40px; line-height:40px; text-indent:10px; border-bottom:1px solid #cdcdcd; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5; background:url(../img/bg-input.png) #eee top left repeat-x; border-top:none; margin-bottom:15px;}
+.seja-instrutor #conteudo form#form-contato input[type="radio"]{ width:19px; margin:0 10px 0 0;}
+.seja-instrutor #conteudo form#form-contato textarea{float:left; width:580px; height:250px; line-height:21px; padding:10px; border-bottom:1px solid #cdcdcd; border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5; background:url(../img/bg-input.png) #eee top left repeat-x; border-top:none; margin-top:15px;}
+.seja-instrutor #conteudo form#form-contato span{ float: left; height:40px; line-height:40px;}
+.seja-instrutor #conteudo form#form-contato p{ float:left; margin:0; width:auto; padding-right:20px;}
+.seja-instrutor #conteudo form#form-contato input#enviar{ float:left; text-indent:0; margin:0 0 30px 0; width:auto; height:37px; padding:0 12px; line-height:37px; font-family:Helvetica, Arial, sans-serif; font-size:16px; border:none; color:#fff; font-weight:bold; background:url(../img/bg-submit.png) left bottom repeat-x;}
+.seja-instrutor #conteudo form#form-contato input#enviar:hover{ cursor:pointer; background-position:left top;}
+.seja-instrutor #conteudo #telefones{ float:left; width:100px; padding-right:20px}
+.seja-instrutor #conteudo #emails{ float:left; width:240px; padding-right:20px}
+.seja-instrutor #conteudo #endereco{ float:left; width:280px;}
+.seja-instrutor #conteudo #telefones h3, #conteudo #emails h3, #conteudo #endereco h3{ float:left; width:100%; font-family:Helvetica, Arial, sans-serif; font-size:16px; color:#2d3340; font-weight:bold; padding:20px 0 5px 0; margin:0;}
+.seja-instrutor #conteudo #telefones p, #conteudo #emails p, #conteudo #endereco p{ float:left; width:100%; font-family:Helvetica, Arial, sans-serif; font-size:12px; line-height:17px; color:#2d3340; font-weight:normal; margin:0; padding:0;}
+.seja-instrutor #conteudo #endereco p span{ font-style:italic; color:#595959; font-size:11px; line-height:16px;}
+
+/*CONTEÚDO - ONDE ATUAMOS*/
+.onde-atuamos #conteudo h2, .onde-atuamos #conteudo h3{ font-family:Helvetica, Arial, sans-serif; font-weight:normal; font-size:32px; letter-spacing:-0.06em;}
+.onde-atuamos #conteudo h2 span{ font-weight:bold; font-size:48px;}
+.onde-atuamos #conteudo h3 span{ font-weight:bold; font-size:40px;}
+
+/*RODAPÉ*/
+#rodape{ width:100%; height:45px; background:url(../img/bg-rodape.png) center top repeat-x; position:fixed; bottom:0; left:0; z-index:50;}
+#rodape .wrap{ height:45px; overflow:hidden;}
+#rodape #twitter{position:absolute; width:45px; height:40px; top:4px; left:0; z-index:10;}
+#rodape #twitter a{ background:url(../img/icone-twitter.png) center top no-repeat; width:45px; height:40px; display:block; text-indent: 999px; float:left;}
+#rodape #twitter a:hover{ background: url(../img/icone-twitter.png) center bottom no-repeat;}
+#rodape #tweet_container { position:absolute; left:50px; z-index:5; height:45px; width:910px; background:url(../img/twitter-navegacao-divisor.png) 873px 15px no-repeat;}
+#rodape #tweet_container .tweet_list{ padding:5px 0 0 0; height:40px; margin:0; width:825px;}
+#rodape #tweet_container .tweet_list div{ font-family:Helvetica, Arial, sans-serif; line-height:40px; height:40px; color:#e86e16; font-size:12px; margin:0; width:825px; display:block;}
+#rodape #tweet_container .tweet_list div a, #rodape #tweet_container .tweet_list div a.visited{ color:#e86e16;}
+#rodape #tweet_container .tweet_list div .tweet_time{ float:right; font-style:italic; font-size:12px;}
+#rodape #tweet_container .tweet_list div .tweet_time a, #rodape #tweet_container .tweet_list div .tweet_time a.visited, #rodape #tweet_container .tweet_list div .tweet_join{ color:#666; text-decoration:none;}
+#rodape .prev{ display:block; width:25px; height:40px; position:absolute; top:4px; right:35px; z-index:10; background:url(../img/twitter-navegacao-setas.png) left top no-repeat; margin-right:5px; text-indent:999px;}
+#rodape .next{ display:block; width:25px; height:40px; position:absolute; top:4px; right:0; z-index:10; background:url(../img/twitter-navegacao-setas.png) right top no-repeat; margin-right:5px; text-indent:999px;}
+#rodape .prev:hover{ background:url(../img/twitter-navegacao-setas.png) left bottom no-repeat;}
+#rodape .next:hover{ background:url(../img/twitter-navegacao-setas.png) right bottom no-repeat;}
+
+.input{
+	float:left;
+	padding:10px;
+	
+	/*borda arredondada*/
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}
+
+.erro{
+	clear:both;
+	font:normal , sans-serif;
+	color:#de0000;
+}

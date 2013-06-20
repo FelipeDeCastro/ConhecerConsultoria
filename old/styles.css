@@ -1,0 +1,86 @@
+<!--
+td {
+	text-align: left;
+	vertical-align: top;
+	font-family:Tahoma;
+	font-size:11px;
+	color:808087;
+}
+a { text-decoration:underline;
+	color:#FFFFFF;
+}
+a.2{
+color:FF5400;
+}
+a.1 {
+	text-decoration: none;
+	color: 048C04;
+	font-family: Arial;
+	font-weight:bold;
+	font-size: 12px;
+	font-style: normal;
+}
+.t9 {
+	font-family: Tahoma;
+	font-size: 9px;
+	font-style: normal;
+}
+
+.t11 {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-style: normal;
+}
+.t10 {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-style: normal;
+}
+.t12 {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+}
+.t13 {
+	font-family: Tahoma;
+	font-size: 13px;
+	font-style: normal;
+}
+
+.t14 {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-style: normal;
+}
+.divcentro {
+	width: 480px;
+	height:394px;
+	border: 1px solid #cccccc;
+	margin-top:6px;
+	background: white;
+	padding-left:5px;
+	padding-top:10px;
+	padding-right:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	font-size:12px;
+}
+.cx_texto {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #FE6400;
+	border: 1px solid #989898;
+}
+.texto_verde {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	color:#007028;
+}
+.texto_vermelho {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	color:#FF0000;
+}
+-->

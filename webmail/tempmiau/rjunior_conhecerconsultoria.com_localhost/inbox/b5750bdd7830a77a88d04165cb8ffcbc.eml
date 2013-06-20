@@ -1,0 +1,62 @@
+Return-path: <noreply@bellinatiperez.com.br>
+Envelope-to: rjunior@conhecerconsultoria.com
+Delivery-date: Wed, 03 Mar 2010 17:02:38 -0300
+Received: from hm1315-41.locaweb.com.br ([201.76.49.197])
+	by ariel.serverbr14.com with esmtp (Exim 4.69)
+	(envelope-from <noreply@bellinatiperez.com.br>)
+	id 1NmucA-00022W-Ml
+	for rjunior@conhecerconsultoria.com; Wed, 03 Mar 2010 16:51:50 -0300
+Received: from localhost (189.126.112.110) by hm1315-42.locaweb.com.br (PowerMTA(TM) v3.5r13) id hhquv80nvfoc for <rjunior@conhecerconsultoria.com>; Wed, 3 Mar 2010 16:52:18 -0300 (envelope-from <noreply@bellinatiperez.com.br>)
+X-LW-Scanned: by Locaweb Mail Filter at locaweb.com.br
+Received: from hm1962.locaweb.com.br ([127.0.0.1])
+	by localhost (hm1962.locaweb.com.br [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id OFKnoKfizsjH for <rjunior@conhecerconsultoria.com>;
+	Wed,  3 Mar 2010 16:51:52 -0300 (BRT)
+Received: from hm928.locaweb.com.br (unknown [10.1.0.22])
+	by hm1962.locaweb.com.br (Postfix) with SMTP id 8C08C32B15B
+	for <rjunior@conhecerconsultoria.com>; Wed,  3 Mar 2010 16:49:52 -0300 (BRT)
+Received: from unknown (HELO posseidon) (admin@bellinatiperez.com.br@200.195.172.44)
+  by hm928.locaweb.com.br with SMTP; 3 Mar 2010 19:50:15 -0000
+X-LocaWeb-COR: locaweb_2009_x-mail
+X-LW-SMTP-Limit: 20100303165015
+MIME-Version: 1.0
+From: "Adv. BellinatiPerez" <noreply@bellinatiperez.com.br>
+To: rjunior@conhecerconsultoria.com
+Date: 3 Mar 2010 16:50:08 -0300
+Subject: =?utf-8?B?Qm9sZXRvIGRlIGNvYnJhbsOnYQ==?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <20100303194952.8C08C32B15B@hm1962.locaweb.com.br>
+X-SeverBR-MailScanner-Information: Please contact the ISP for more information
+X-SeverBR-MailScanner-ID: 1NmucA-00022W-Ml
+X-SeverBR-MailScanner: Found to be clean
+X-SeverBR-MailScanner-SpamCheck: não spam, ORDB-RBL,
+	SpamAssassin (not cached, escore=2.877, requerido 5,
+	HTML_MESSAGE 0.00, HTML_MIME_NO_HTML_TAG 1.05, MIME_HTML_ONLY 1.67,
+	SARE_SUB_ENC_UTF8 0.15)
+X-SeverBR-MailScanner-SpamScore: ss
+X-SeverBR-MailScanner-From: noreply@bellinatiperez.com.br
+X-SeverBR-MailScanner-Watermark: 1268251259.32699@jAXF6ws69TIdbK4avk7ujQ
+X-Spam-Status: No
+X-UM-Flags: \SEEN
+
+PGZvbnQgZmFjZT12ZXJkYW5hIHNpemU9MT4qIEVzc2Egw6kgdW1hIG1lbnNhZ2VtIGF1dG9t
+w6F0aWNhLiBQb3IgZmF2b3IgbsOjbyByZXNwb25kYS48L2ZvbnQ+PGZvbnQgZmFjZT12ZXJk
+YW5hIHNpemU9Mj48YnI+PGJyPjxiPlByZXphZG8gU2VuaG9yKGEpPC9iPjxicj5ST05BTEQg
+SkVTVVMgRE9TIFBBU1NPUyBKVU5JT1I8YnI+PGJyPkNvbmZvcm1lIGNvbnRhdG8gdGVsZWbD
+tG5pY28sIGNsaXF1ZSBhYmFpeG8gcGFyYSBhYnJpciBvIGJvbGV0byBiYW5jw6FyaW86PGJy
+Pjxicj48YSBocmVmPSJodHRwOi8vYm9sZXRvcy5iZWxsaW5hdGlwZXJlei5jb20uYnIvYm9s
+bWFpbC5hc3B4P3A9ZTY2MjRlNWUtMjZmZC0xMWRmLWE1NDEtMDAyNGU4NTQ1MTQwJnNyYz1R
+WGdzVUJ2dSUyYjB4M3ZnZWVKODV1c3Y5emxYcG9adkd1ZldjUmRpSXloVjQlM2QiPkdFUkFS
+IEJPTEVUTzwvYT48YnI+PGJyPk91IGNvcGllIG8gZW5kZXJlw6dvIGFiYWl4byBlIGNvbGUg
+ZW0gc2V1IG5hdmVnYWRvcjo8YnI+PGJyPjxpPmh0dHA6Ly9ib2xldG9zLmJlbGxpbmF0aXBl
+cmV6LmNvbS5ici9ib2xtYWlsLmFzcHg/cD1lNjYyNGU1ZS0yNmZkLTExZGYtYTU0MS0wMDI0
+ZTg1NDUxNDAmc3JjPVFYZ3NVQnZ1JTJiMHgzdmdlZUo4NXVzdjl6bFhwb1p2R3VmV2NSZGlJ
+eWhWNCUzZDwvaT48QlI+PGJyPjxicj5RdWFscXVlciBkw7p2aWRhIHF1YW50byBhbyBwYWdh
+bWVudG8gZGVzdGUgYm9sZXRvLCBlbnRyZSBlbSBjb250YXRvIHBlbG9zIGZvbmVzIGNvbnN0
+YW50ZXMgbm8gc2l0ZSBvdSBwZWxvIMOtdGVtIDxhIGhyZWY9J2h0dHA6Ly93d3cuYmVsbGlu
+YXRpcGVyZXouY29tLmJyL2RlZmF1bHQuYXNweD9pZD1mYWxlY29ub3Njbyc+IkZhbGUgQ29u
+b3NjbyI8L2E+Ljxicj48YnI+QXRlbmNpb3NhbWVudGUsPGJyPkFkdm9jYWNpYSBCZWxsaW5h
+dGkgUGVyZXo8YnI+PGEgaHJlZj0naHR0cDovL3d3dy5iZWxsaW5hdGlwZXJlei5jb20uYnIn
+Pnd3dy5iZWxsaW5hdGlwZXJlei5jb20uYnI8L2E+PC9mb250Pg==
+
