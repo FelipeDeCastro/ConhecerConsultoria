@@ -35,12 +35,12 @@ $mail->AddAddress('rjunior@conhecerconsultoria.com', 'angela.carvalho@conhecerco
 // Define os dados técnicos da Mensagem
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 $mail->IsHTML(true); // Define que o e-mail será enviado como HTML
-$mail->CharSet = 'iso-8859-1'; // Charset da mensagem (opcional)
+$mail->CharSet = 'utf-8'; // Charset da mensagem (opcional)
 
 // Define a mensagem (Texto e Assunto)
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 $mail->Subject  = "Contato - Via site"; // Assunto da mensagem
-$mail->Body = "
+$mail->Body = utf8_decode("
         <HTML>
 			<HEAD>
 				<style>
@@ -69,8 +69,8 @@ $mail->Body = "
     				</TR>
     			</TABLE>
 			</BODY>
-		</HTML>";
-$mail->AltBody = "
+		</HTML>");
+$mail->AltBody = utf8_decode("
                     <HTML>
 			<HEAD>
 				<style>
@@ -99,7 +99,7 @@ $mail->AltBody = "
 				</TR>
 			</TABLE>
 			</BODY>
-			</HTML>";
+			</HTML>");
 
 // Define os anexos (opcional)
 // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
