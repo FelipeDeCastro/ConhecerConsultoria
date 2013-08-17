@@ -55,6 +55,7 @@ $mail->Subject  = "Cadastro de instrutores - Via site"; // Assunto da mensagem
 $mail->Body = utf8_decode("
         <HTML>
 			<HEAD>
+				<meta charset=\"utf-8\">
 				<style>
 				TD {color:#666666;font-family:Verdana;font-size:12px; LINE-HEIGHT: 120%;}
 				A:{TEXT-DECORATION: none; color:#666666}
@@ -82,25 +83,25 @@ $mail->Body = utf8_decode("
     				<b>CPF: </b>".$cpf."<BR>
     				<b>Escolaridade: </b>".$escolaridade."<BR><BR>
 					
-					<b>Dados para contato e endereço</b><BR>
-    				<b>Endereço: </b> ".$endereco."<BR>
+					<b>Dados para contato e endere&ccedil;o</b><BR>
+    				<b>Endere&ccedil;o: </b> ".$endereco."<BR>
     				<b>CEP: </b>".$cep."<BR>
     				<b>Telefone: </b>".$telefone."<BR>
     				<b>Email: </b> ".$email."<BR><BR>
 					
-					<b>Em qual área gostaria de atuar?</b><BR>
+					<b>Em qual &aacute;rea gostaria de atuar?</b><BR>
     				".$areaAtuacao."<BR><BR>
 					
-					<b>Em qual função tem mais experiência/conhecimento?</b><BR>
+					<b>Em qual fun&ccedil;&atilde;o tem mais experi&ecirc;ncia/conhecimento?</b><BR>
     				".$funcao."<BR><BR>
 					
-					<b>Há quanto tempo atua na área?</b><BR>
+					<b>H&aacute; quanto tempo atua na &aacute;rea?</b><BR>
     				".$tempoAtuacao."<BR><BR>
 					
-					<b>Já atuou como instrutor?</b><BR>
+					<b>J&aacute; atuou como instrutor?</b><BR>
     				".$instrutor."<BR><BR>
 					
-					<b>Trajetória profissional:</b><BR>
+					<b>Trajet&oacute;ria profissional:</b><BR>
     				".$mtexto."<BR><BR>
     				</TD>
     				<TD WIDTH=\"40\">&nbsp;</TD>
@@ -111,6 +112,7 @@ $mail->Body = utf8_decode("
 $mail->AltBody = utf8_decode("
                     <HTML>
 			<HEAD>
+				<meta charset=\"utf-8\">
 				<style>
 				TD {color:#666666;font-family:Verdana;font-size:12px; LINE-HEIGHT: 120%;}
 				A:{TEXT-DECORATION: none; color:#666666}
